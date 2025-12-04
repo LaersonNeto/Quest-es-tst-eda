@@ -10,6 +10,7 @@ class Fibonacci {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println(fibonacci(num));
+        int b = 0
     }
 }
 
